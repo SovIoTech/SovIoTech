@@ -50,13 +50,13 @@ Whether you need a custom embedded system, a real-time dashboard, or a complete 
 
 <div align="center">
 
-### 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=SovIoTech&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SovIoTech&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3>🚀 Ready to scale your infrastructure?</h3>
+<p>We are currently accepting new contracts for <b>Q1 2026</b>.</p>
 
-<br/>
+<a href="mailto:soviotechsolutions@gmail.com?subject=Project%20Consultation%20Inquiry">
+  <img src="https://img.shields.io/badge/Book_a_Free_Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=30" alt="Book Consultation" />
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=SovIoTech&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><i>Direct Email: soviotechsolutions@gmail.com</i></p>
 
 </div>
